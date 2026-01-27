@@ -25,6 +25,16 @@ Everything here was built to run comfortably in **Google Colab**:
 
 ---
 
+## Streamlit Demo Screnshots
+
+Example 1:
+![alt text](<Screenshot 2026-01-27 173311.png>)
+
+Example 2:
+![alt text](<Screenshot 2026-01-27 173140.png>)
+
+---
+
 ## How it works (high-level)
 
 ### 1) We start with a big model… and avoid updating all of it
