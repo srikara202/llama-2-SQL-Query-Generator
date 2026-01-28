@@ -11,6 +11,8 @@ Everything here was built to run comfortably in **Google Colab**:
 * the Streamlit UI is launched **inside Colab** (not hosted on Hugging Face Spaces),
 * the model is trained using **LoRA adapters** + **bitsandbytes 4‑bit loading** so it fits on a single GPU.
 
+Link to the Google Colab notebook: https://colab.research.google.com/drive/1EtLZupv91ICpXHb-ptAxj8b1PVoYuxxC?usp=sharing
+
 ---
 
 ## What you get
